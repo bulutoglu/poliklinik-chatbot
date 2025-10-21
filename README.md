@@ -5,7 +5,7 @@ Akbank GenAI Bootcamp kapsamında geliştirilen bu proje, kullanıcıların yazd
 ## 🚀 Web Arayüzü
 
 Projeyi canlı olarak test etmek için aşağıdaki linki ziyaret edebilirsiniz:
-➡️ [PROJENİZİN DEPLOY LİNKİ BURAYA GELECEK]
+➡️ https://poliklinik-chatbot-n2gb9p96xbyne3hr5wryho.streamlit.app/
 
 ## 🎯 Projenin Amacı
 
