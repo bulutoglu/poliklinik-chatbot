@@ -16,7 +16,7 @@ try:
     API_KEY = st.secrets["API_KEY"]
     genai.configure(api_key=API_KEY)
     embedding_model = 'models/text-embedding-004'
-    generation_model = genai.GenerativeModel('gemini-1.5-flash')
+    generation_model = genai.GenerativeModel('gemini-2.5-flash')
 except Exception as e:
     st.error(f"❌ HATA: API anahtarı yapılandırılamadı. Lütfen anahtarınızı kontrol edin. Detay: {e}")
     st.stop()
